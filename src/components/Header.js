@@ -18,7 +18,7 @@ const Header = ({title, onAdd, showAdd}) => {
 };
 
 Header.defaultProps = {
-    title: 'Task Tracer'
+    title: 'Harika Task Tracer'
 }
 ;
 Header.propTypes = {
